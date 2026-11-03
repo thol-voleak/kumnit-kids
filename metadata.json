@@ -1,0 +1,6 @@
+{
+  "name": "Kumnit Kids - Bilingual Khmer & English Early Learning PRD & App",
+  "description": "Next-generation bilingual (Khmer & English) early education app for ages 3-6 featuring interactive tracing, animated phonics, speech coach, gamification, and complete Flutter architecture.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
